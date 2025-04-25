@@ -59,8 +59,7 @@ int main() {
 
 Output:
 
-![image](https://github.com/user-attachments/assets/1da60ea2-a978-4a27-9f16-7c1b19f04d23)
-
+![image](https://github.com/user-attachments/assets/19ba9a6a-a68b-49ce-a5f5-66b1228a8b50)
 Result:
 Thus, the program is verified successfully. 
 
