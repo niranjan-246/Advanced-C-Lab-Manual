@@ -1,7 +1,7 @@
 ```python
 Developed By  :  NIRANJAN T
 Register No   :  212224060173
-Module No     :  C Module 9
+Module No     :  C Module 12
 ```
 
 EXP NO 26: C PROGRAM TO DISPLAY STACK ELEMENTS USING LINKED LIST.
